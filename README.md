@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-deploy-this-repo-trangn03.vercel.app
+https://deploy-this-repo-trangn03.vercel.app
 
 
